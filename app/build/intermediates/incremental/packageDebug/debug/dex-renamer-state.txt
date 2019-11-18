@@ -1,0 +1,4 @@
+#Sun Nov 17 15:12:29 GMT 2019
+base.0=C\:\\Users\\Danny\\Desktop\\3rd Year BSc Computer Science\\Android Development\\RecyclerView\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
